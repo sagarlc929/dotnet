@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdGEO4Zwb0ncgGXOzX3d61aqSZl0u08PnRk4d1NjXMPYC78OsjZfQXam/JBnSXY5sc6H8+KudfTFQv+5oXGPAQ==",
+  "success": true,
+  "projectFilePath": "/home/summer/practice/dotnet/class/constructor/EmployeeApp/EmployeeApp.csproj",
+  "expectedPackageFiles": [
+    "/home/summer/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

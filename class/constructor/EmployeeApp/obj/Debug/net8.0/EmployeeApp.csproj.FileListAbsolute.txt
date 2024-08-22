@@ -1,0 +1,15 @@
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/bin/Debug/net8.0/EmployeeApp
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/bin/Debug/net8.0/EmployeeApp.deps.json
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/bin/Debug/net8.0/EmployeeApp.runtimeconfig.json
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/bin/Debug/net8.0/EmployeeApp.dll
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/bin/Debug/net8.0/EmployeeApp.pdb
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/obj/Debug/net8.0/EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/obj/Debug/net8.0/EmployeeApp.AssemblyInfoInputs.cache
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/obj/Debug/net8.0/EmployeeApp.AssemblyInfo.cs
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/obj/Debug/net8.0/EmployeeApp.csproj.CoreCompileInputs.cache
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/obj/Debug/net8.0/EmployeeApp.sourcelink.json
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/obj/Debug/net8.0/EmployeeApp.dll
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/obj/Debug/net8.0/refint/EmployeeApp.dll
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/obj/Debug/net8.0/EmployeeApp.pdb
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/obj/Debug/net8.0/EmployeeApp.genruntimeconfig.cache
+/home/summer/practice/dotnet/class/constructor/EmployeeApp/obj/Debug/net8.0/ref/EmployeeApp.dll

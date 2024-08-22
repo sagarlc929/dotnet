@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qnyrklVRcDjnYP2qYD9a+GRze3BtpUpEu+hVgE+jeHWdumyKc4Rn3nTysxOOMvJE0ysn2VWYWY2v1k1TpHo+Ig==",
+  "success": true,
+  "projectFilePath": "/home/summer/practice/dotnet/class/interface/Drawing/Drawing.csproj",
+  "expectedPackageFiles": [
+    "/home/summer/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
